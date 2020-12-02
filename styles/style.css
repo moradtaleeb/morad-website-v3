@@ -131,6 +131,12 @@ header nav ul li:not(:last-child) {
   .projects-group .row .col-md-5:nth-child(2) .project {
     margin-top: 160px;
   }
+  header nav ul li:not(:last-child) {
+    margin-right: 0.75rem !important;
+  }
+  footer p.caption {
+    font-size: 0.7rem;
+  }
 }
 
 .img-wrapper {
@@ -151,7 +157,7 @@ header nav ul li:not(:last-child) {
 }
 
 p.caption {
-  font-size: 14px;
+  font-size: 0.9rem;
   margin: 15px 0 5px;
 }
 
