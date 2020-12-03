@@ -114,6 +114,13 @@ header nav ul li:not(:last-child) {
   border-radius: 4px;
   margin-bottom: 8px;
 }
+#projects .projects-group:last-child {
+  margin-bottom: 1rem;
+}
+#projects img {
+  width: 900px;
+  height: auto;
+}
 .project p {
   font-size: 1rem;
 }
