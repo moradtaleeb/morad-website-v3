@@ -229,4 +229,8 @@ footer p:first-child {
   .img-wrapper.text-right {
     text-align: left !important;
   }
+  section {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
 }
