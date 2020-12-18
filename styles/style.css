@@ -129,6 +129,11 @@ header nav ul li:not(:last-child) {
   max-width: 600px;
 }
 
+.pphoto {
+  border-bottom: 4px solid #1abc9c;
+  box-shadow: 0 8px 0px 0px rgba(0,0,0,0.1);
+}
+
 .projects-group {
   margin: 70px 0;
 }
